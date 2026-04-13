@@ -1,6 +1,6 @@
 cask "skilldeck" do
-  version "0.0.21"
-  sha256 "c269fc6c212221607263715b698e05ee4e2afdaf5fbcfb16a2db63d7496d015a"
+  version "0.0.22"
+  sha256 "6f9a002551df2948417abb7915973fd5fcf363c390907fd54c16430747379bdc"
 
   url "https://github.com/crossoverJie/SkillDeck/releases/download/v#{version}/SkillDeck-v#{version}-universal.zip"
   name "SkillDeck"
