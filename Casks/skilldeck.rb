@@ -7,7 +7,7 @@ cask "skilldeck" do
   desc "Native macOS application for managing AI code agent skills"
   homepage "https://github.com/crossoverJie/SkillDeck"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "SkillDeck.app"
 
